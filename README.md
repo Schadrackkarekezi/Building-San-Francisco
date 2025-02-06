@@ -1,5 +1,5 @@
-# Building-San-Francisco
-Building San Francisco: Analyzing &amp; Forecasting Coming Permit Growth
+
+# Building San Francisco: Analyzing &amp; Forecasting Coming Permit Growth
 San Francisco, known for its iconic landmarks, diverse culture, and technological innovation, is a vibrant city on the northern California coast. With a rich history shaped by the Gold Rush, waves of immigration, and the rise of Silicon Valley, it remains a hub for finance, technology, and tourism. The city’s unique geography, steep hills, and the scenic San Francisco Bay contribute to its distinct character. However, pressing factors such as high living costs, complex infrastructure, environmental conservation efforts, historic preservation regulations, strict zoning laws, and a demanding permit approval process shape the city’s ongoing growth.
 
 Our driving question is, “How can building permit trends help us forecast urban growth in San Francisco overall?” To investigate this, we analyzed a dataset of approximately 200,000 building permits in San Francisco, focusing on data from 2013 to 2017. San Francisco is the second most densely populated city nationwide that also sits on a major fault line, requiring adherence to stringent seismic retrofit standards, all of which influence the building permit process. 
